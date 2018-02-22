@@ -1,0 +1,10 @@
+/**
+ * Angelica Coria
+ * 2/15/18
+ * Per.5
+ */
+public interface Priority
+{
+    public void setPriority (int priority);
+    public int getPriority ();
+}
